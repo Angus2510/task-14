@@ -1,0 +1,53 @@
+Functional and Non-functional Requirements:
+
+User Management:
+
+Sign in: Users can create an account or log in using their credentials.
+User roles: Users can have different roles, such as admin, manager, or team member.
+Task Management:
+
+Add tasks: Users can create new tasks and assign them to themselves or other users.
+Delete tasks: Users can delete tasks that are no longer needed.
+Edit tasks: Users can modify task details, such as title, description, assignee, and deadline.
+Mark tasks as complete: Users can mark tasks as complete when they are finished.
+Filter tasks:
+Completed tasks: Users can view a list of completed tasks.
+Tasks that must still be completed: Users can view a list of tasks that are pending or in progress.
+Deadline: Users can filter tasks based on a specific deadline.
+Tasks that are overdue: Users can see tasks that have passed their deadline.
+User Interface:
+
+Intuitive design: The user interface should be user-friendly and easy to navigate.
+Responsive layout: The web app should adapt to different screen sizes and devices.
+Notifications: Users should receive notifications for task assignments, updates, and deadlines.
+Non-functional Requirements:
+
+Performance:
+
+Fast and responsive: The web app should have quick load times and smooth interactions.
+Scalability: The system should handle a large number of users and tasks efficiently.
+Reliability: The web app should be available and stable with minimal downtime.
+Security:
+
+User authentication: Users should be required to sign in and their data should be securely stored.
+Access control: User roles should determine their level of access to tasks and features.
+Data protection: User data and task details should be encrypted and protected from unauthorized access.
+
+
+User Stories:
+
+As a user, I want to create an account and sign in to the web app.
+As a user, I want to add tasks and assign them to myself or other users.
+As a user, I want to delete tasks that are no longer needed.
+As a user, I want to edit task details, such as title, description, assignee, and deadline.
+As a user, I want to mark tasks as complete when I finish them.
+As a user, I want to filter tasks to view completed tasks, pending tasks, tasks with specific deadlines, or overdue tasks.
+Stand out from Competitors:
+To make our Task Management web app stand out from competitors like Asana, we will focus on the following aspects:
+
+Enhanced Collaboration: Our app will emphasize team collaboration by providing real-time updates, task assignments, and notifications to foster efficient teamwork.
+Intuitive User Experience: We will prioritize a clean and intuitive user interface, making it easy for users to navigate, add, and manage tasks effortlessly.
+Personalization: Our app will allow users to customize their task views, prioritize tasks, and set reminders based on their preferences.
+Analytics and Insights: We will provide comprehensive analytics and insights, giving users a deeper understanding of task progress, team productivity, and trends to improve project management.
+Integration Capabilities: Our web app will offer seamless integration with popular third-party tools and platforms, such as project management software, team communication tools, and calendar apps.
+By focusing on these aspects, we aim to provide a unique and valuable experience to our users, differentiating ourselves from competitors and meeting the needs of modern task management.

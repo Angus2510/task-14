@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" modified="2023-06-05T14:20:59.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="hRcJAVCY78MuT8aox2VL" version="21.3.7" type="device">
+  <diagram name="Page-1" id="LUPhwoL7By3qmL40ytV0">
+    <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-1" value="navigation bar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="10" width="820" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-2" value="logo" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-3" value="hamburger button" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-4" value="welcome to the page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="90" width="730" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-5" value="image" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-6" value="image" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="309" y="170" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-7" value="image" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="170" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-9" value="advertisement" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="460" y="580" width="480" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-10" value="" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="400" width="550" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-11" value="this is where the content of the page will be&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tAnzm5rucIc3LwCF2SAB-10">
+          <mxGeometry x="75" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-17" value="edit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tAnzm5rucIc3LwCF2SAB-10">
+          <mxGeometry x="344" y="55" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-21" value="delete" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tAnzm5rucIc3LwCF2SAB-10">
+          <mxGeometry x="344" y="80" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-22" value="this is where the tasks will be placed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tAnzm5rucIc3LwCF2SAB-10">
+          <mxGeometry x="35" y="50" width="285" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-24" value="this is where the tasks will be placed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tAnzm5rucIc3LwCF2SAB-10">
+          <mxGeometry x="35" y="130" width="285" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-25" value="this is where the tasks will be placed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tAnzm5rucIc3LwCF2SAB-10">
+          <mxGeometry x="35" y="210" width="285" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-26" value="this is where to todo tasks will be placed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tAnzm5rucIc3LwCF2SAB-10">
+          <mxGeometry x="40" y="290" width="285" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-35" value="this is where to todo tasks will be placed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tAnzm5rucIc3LwCF2SAB-10">
+          <mxGeometry x="40" y="370" width="285" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-40" value="edit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tAnzm5rucIc3LwCF2SAB-10">
+          <mxGeometry x="344" y="130" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-37" value="edit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tAnzm5rucIc3LwCF2SAB-10">
+          <mxGeometry x="344" y="215" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-39" value="edit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tAnzm5rucIc3LwCF2SAB-10">
+          <mxGeometry x="344" y="300" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-38" value="edit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tAnzm5rucIc3LwCF2SAB-10">
+          <mxGeometry x="344" y="370" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-58" value="delete" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tAnzm5rucIc3LwCF2SAB-10">
+          <mxGeometry x="344" y="160" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-57" value="delete" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tAnzm5rucIc3LwCF2SAB-10">
+          <mxGeometry x="344" y="240" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-59" value="delete" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tAnzm5rucIc3LwCF2SAB-10">
+          <mxGeometry x="344" y="330" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-60" value="delete" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tAnzm5rucIc3LwCF2SAB-10">
+          <mxGeometry x="344" y="400" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-15" value="logged in status" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="715" y="25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-16" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-23" value="footer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17" y="950" width="810" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-62" value="subscription" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1020" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-63" value="news letter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="970" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-64" value="button" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1060" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-65" value="this is where you wil;l put company details, email address and contact us" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="970" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tAnzm5rucIc3LwCF2SAB-66" value="have your icons here such as github facebook etc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="980" width="300" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
